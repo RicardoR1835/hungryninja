@@ -1,0 +1,11 @@
+/Users/ricardorivera/cSharp/hungryninja/bin/Debug/netcoreapp2.1/hungryninja.deps.json
+/Users/ricardorivera/cSharp/hungryninja/bin/Debug/netcoreapp2.1/hungryninja.runtimeconfig.json
+/Users/ricardorivera/cSharp/hungryninja/bin/Debug/netcoreapp2.1/hungryninja.runtimeconfig.dev.json
+/Users/ricardorivera/cSharp/hungryninja/bin/Debug/netcoreapp2.1/hungryninja.dll
+/Users/ricardorivera/cSharp/hungryninja/bin/Debug/netcoreapp2.1/hungryninja.pdb
+/Users/ricardorivera/cSharp/hungryninja/obj/Debug/netcoreapp2.1/hungryninja.csprojAssemblyReference.cache
+/Users/ricardorivera/cSharp/hungryninja/obj/Debug/netcoreapp2.1/hungryninja.csproj.CoreCompileInputs.cache
+/Users/ricardorivera/cSharp/hungryninja/obj/Debug/netcoreapp2.1/hungryninja.AssemblyInfoInputs.cache
+/Users/ricardorivera/cSharp/hungryninja/obj/Debug/netcoreapp2.1/hungryninja.AssemblyInfo.cs
+/Users/ricardorivera/cSharp/hungryninja/obj/Debug/netcoreapp2.1/hungryninja.dll
+/Users/ricardorivera/cSharp/hungryninja/obj/Debug/netcoreapp2.1/hungryninja.pdb
